@@ -7,7 +7,7 @@ This repository contains MATLAB code used to generate figures and tables for the
 Some of the figures and tables require the data file:
 
 * `face_dataset.csv`
-* 'root_ages.csv'
+* `root_ages.csv`
 
 The first file contains root isotope, root-order, treatment, average diameter, and sampling-date data used in the model fitting and figure generation. The second file contains samples from a minirhizotron experiment from the same FACE site and is used for comparison purposes in the Supplemental Material.
 
